@@ -1,0 +1,11 @@
+#测试说明
+#调试的时候注意一下ip地址
+#聊天功能
+![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/chat1.png)
+![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/chat2.png)
+#联系人列表
+![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/contacts.png)
+#会话列表
+![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/conversation.png)
+#真机测试
+![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/real.jpg)
