@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="输入账号"
-                android:text="admin"/>
+                android:text="你自己帐号"/>
         </LinearLayout>
 
         <LinearLayout
@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:hint="输入密码"
                 android:password="true"
-                android:text="cenzr19940804"/>
+                android:text="你自己帐号的密码"/>
         </LinearLayout>
         <!-- 登录按钮-->
         <Button
