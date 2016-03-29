@@ -1,0 +1,273 @@
+10
+
+dir
+11
+https://billypc/svn/googlePlay_8/trunk/googlePlay_8/libs/android-support-v7-appcompat/res
+https://billypc/svn/googlePlay_8
+
+
+
+2015-07-15T10:23:20.667017Z
+11
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dd115476-c1a6-854b-8e1a-b4cae3928901
+
+
+
+
+
+
+0
+empty
+
+anim
+dir
+
+color
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+layout-v11
+dir
+
+layout-v14
+dir
+
+values
+dir
+
+values-af
+dir
+
+values-am
+dir
+
+values-ar
+dir
+
+values-bg
+dir
+
+values-ca
+dir
+
+values-cs
+dir
+
+values-da
+dir
+
+values-de
+dir
+
+values-el
+dir
+
+values-en-rGB
+dir
+
+values-en-rIN
+dir
+
+values-es
+dir
+
+values-es-rUS
+dir
+
+values-et-rEE
+dir
+
+values-fa
+dir
+
+values-fi
+dir
+
+values-fr
+dir
+
+values-fr-rCA
+dir
+
+values-hi
+dir
+
+values-hr
+dir
+
+values-hu
+dir
+
+values-hy-rAM
+dir
+
+values-in
+dir
+
+values-it
+dir
+
+values-iw
+dir
+
+values-ja
+dir
+
+values-ka-rGE
+dir
+
+values-km-rKH
+dir
+
+values-ko
+dir
+
+values-land
+dir
+
+values-large
+dir
+
+values-large-v14
+dir
+
+values-lo-rLA
+dir
+
+values-lt
+dir
+
+values-lv
+dir
+
+values-mn-rMN
+dir
+
+values-ms-rMY
+dir
+
+values-nb
+dir
+
+values-nl
+dir
+
+values-pl
+dir
+
+values-pt
+dir
+
+values-pt-rPT
+dir
+
+values-ro
+dir
+
+values-ru
+dir
+
+values-sk
+dir
+
+values-sl
+dir
+
+values-sr
+dir
+
+values-sv
+dir
+
+values-sw
+dir
+
+values-sw600dp
+dir
+
+values-th
+dir
+
+values-tl
+dir
+
+values-tr
+dir
+
+values-uk
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+values-vi
+dir
+
+values-w360dp
+dir
+
+values-w480dp
+dir
+
+values-w500dp
+dir
+
+values-w600dp
+dir
+
+values-w720dp
+dir
+
+values-xlarge
+dir
+
+values-zh-rCN
+dir
+
+values-zh-rHK
+dir
+
+values-zh-rTW
+dir
+
+values-zu
+dir
+

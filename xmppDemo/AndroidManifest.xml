@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cenzr"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity
+            android:name="com.cenzr.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cenzr.activity.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.cenzr.activity.MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+
+        <provider
+            android:name="com.cenzr.provider.ContactsProvider"
+            android:authorities="com.cenzr.provider.ContactsProvider" 
+            android:exported="true"/>
+        <provider
+            android:name="com.cenzr.provider.SmsProvider"
+            android:authorities="com.cenzr.provider.SmsProvider" 
+            android:exported="true"/>
+
+        <service android:name="com.cenzr.service.IMService" />
+        <service android:name="com.cenzr.service.PushService" />
+
+        <activity
+            android:name="com.cenzr.activity.ChatActivity"
+            android:label="@string/title_activity_chat" >
+        </activity>
+
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:label="Tests"
+        android:targetPackage="com.cenzr" >
+    </instrumentation>
+
+</manifest>
