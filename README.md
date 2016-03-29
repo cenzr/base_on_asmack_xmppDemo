@@ -1,4 +1,4 @@
-#测试说明
+#这是基于openfire服务器的xmpp的app，所以大家要事先安装好openfire以及申请多个帐号，方便调试。这个app不仅可以和pc端的软件通信（例如Spark），可以在多个模拟器中运行和多个真机上测试。
 #调试的时候注意一下ip地址
 #聊天功能
 ![image](https://github.com/cenzr/base_on_asmack_xmppDemo/blob/master/xmpp%E6%95%88%E6%9E%9C%E5%9B%BE/chat1.png)
